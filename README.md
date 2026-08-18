@@ -178,13 +178,25 @@ projects, achievements, and professional information.
 
 ---
 
-## 📊 GitHub Activity
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth11-B&bg_color=0B1120&color=67E8F9&line=14B8A6&point=FFFFFF&area_color=134E4A&area=true&hide_border=true"/>
+<a href="https://github.com/yaswanth11-B">
+
+<img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yaswanth11-B&label=PROFILE+VIEWS&color=0F766E&style=for-the-badge"/>
 
 </div>
+
+---
 
 ---
 

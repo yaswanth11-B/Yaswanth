@@ -184,25 +184,11 @@ Issued by Forage
 - Modern Software Technologies
 
 ---
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yaswanth11-B&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth11-B&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</p>
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=yaswanth11-B&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -227,13 +213,7 @@ Issued by Forage
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanth11-B&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
 ---
 
 # 📫 Connect With Me

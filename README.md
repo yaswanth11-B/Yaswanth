@@ -1,247 +1,231 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=Badireddy%20Yaswanth&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:0F766E,75:0891B2,100:0B1120&height=240&section=header&text=BADIREDDY%20YASWANTH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Student&descAlignY=58&descSize=18&descColor=CCFBF1"/>
 
-<a href="https://www.linkedin.com/in/badireddy-yaswanth-82799635a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>
+
+<a href="https://github.com/yaswanth11-B">
+<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/badireddy-yaswanth-82799635">
+<img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yaswanth.badireddy@sasi.ac.in">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yaswanth11-B">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yaswanth11-B&label=Profile%20Views&color=2563EB&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=yaswanth11-B&label=PROFILE+VIEWS&color=0F766E&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Badireddy Yaswanth
+<div align="center">
+
+# 👋 Hello, I'm Yaswanth
 
 ### 💻 Aspiring Software Engineer
 ### 🎓 Computer Science Engineering Student
 ### 📱 Flutter Developer
 ### 🐍 Java & Python Programmer
 
----
-
-# 💫 About Me
-
-✨ Aspiring Software Engineer with hands-on experience in Java, Python, Flutter, and Web Development.
-
-📚 Currently pursuing B.Tech in Computer Science and Engineering at Sasi Institute of Technology & Engineering.
-
-💻 Passionate about building responsive applications and user-focused solutions.
-
-📱 Interested in mobile application development and web development.
-
-🧩 Strong problem-solving ability with practical internship experience.
-
-💡 Always learning new technologies and improving my software development skills.
+</div>
 
 ---
 
-# 🎓 Education
+## 🧑‍💻 About Me
 
-| Qualification | Institute | Score |
-|---------------|-----------|-------|
-| B.Tech (CSE) | Sasi Institute of Technology & Engineering | **CGPA: 8.03/10** |
-| Diploma | State Board of Technical Education and Training | **71.3%** |
-| Secondary Education | Board of Secondary Education - AP | **75.3%** |
+I'm **Badireddy Yaswanth**, an aspiring software engineer currently pursuing
+**B.Tech in Computer Science and Engineering** at **Sasi Institute of Technology & Engineering**.
+
+I enjoy building practical applications, developing responsive interfaces,
+and exploring modern software technologies.
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 📊 CGPA: **8.03 / 10**
+- 💻 Java & Python programmer
+- 📱 Flutter application developer
+- 🌐 Web development enthusiast
+- 🧩 Strong problem-solving skills
+- 🚀 Passionate about learning and building real-world solutions
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,dart,flutter,git,github,vscode&theme=dark"/>
-
+<p>
+<img src="https://img.shields.io/badge/Java-0B1120?style=for-the-badge&logo=openjdk&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/Python-0B1120?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Dart-0B1120?style=for-the-badge&logo=dart&logoColor=0175C2"/>
 </p>
 
-### Languages
+### Web Development
 
-- Java
-- Python
-- HTML5
-- CSS
-- Dart
+<p>
+<img src="https://img.shields.io/badge/HTML5-0B1120?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0B1120?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
 
-### Frameworks
+### Mobile Development
 
-- Flutter
+<p>
+<img src="https://img.shields.io/badge/Flutter-0B1120?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- Visual Studio Code
-
-### Concepts
-
-- Web Development
-- Virtualization
-- Object-Oriented Programming
-
----
-
-# 💼 Experience
-
-## 🌐 Web Development Intern
-
-### Cognifyz Technologies
-
-✔ Worked on web development tasks using HTML and CSS.
-
-✔ Built responsive web pages and improved UI components.
-
-✔ Collaborated with the team on development tasks.
-
-✔ Enhanced problem-solving and communication skills through practical experience.
-
----
-
-# 🚀 Featured Projects
-
-## 📱 Academic Portfolio Application
-
-**Tech Stack**
-
-Flutter • Dart
-
-✔ Developed a mobile application using Flutter to showcase my academic background, projects, and achievements.
-
-✔ Designed a user-friendly interface for smooth navigation and better user experience.
-
-✔ Organized content in a structured way for easy access.
-
-✔ Created a centralized platform to showcase academic projects and achievements.
-
----
-
-## 🌐 Personal Website
-
-**Tech Stack**
-
-HTML • CSS
-
-✔ Created a personal website to present my academic background, projects, and achievements.
-
-✔ Designed responsive pages to ensure a seamless experience across devices.
-
-✔ Organized professional and educational information in a structured format.
-
-✔ Hosted the website for online access.
-
----
-
-# 🏆 Achievements
-
-🏅 Completed a Web Development Internship at Cognifyz Technologies.
-
-🏅 Developed and hosted a personal portfolio website.
-
-🏅 Developed a Flutter application to showcase academic projects and achievements.
-
-🏅 Completed multiple technical certifications and industry-oriented training programs.
-
----
-
-# 📜 Certifications
-
-✔ **TCS iON Career Edge - Young Professional**
-
-Issued by Tata Consultancy Services
-
-✔ **Rapid Mobile App Development Using Flutter**
-
-Issued by DigitalEx Solutions
-
-✔ **Unlocking The Power Of JavaScript**
-
-Issued by Scaler Academy
-
-✔ **AWS Solutions Architecture Job Simulation**
-
-Issued by Forage
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Java
-- Python Development
-- Flutter
-- Web Development
-- Git & GitHub
-- Software Development
-- Modern Software Technologies
-
----
-
-
----
-
-
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth11-B&theme=tokyo-night&hide_border=true"/>
-
+<p>
+<img src="https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-0B1120?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
 </p>
 
----
----
+### Core Concepts
 
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth11-B&theme=tokyo-night&hide_border=true"/>
-
-</p>
+`Object-Oriented Programming` • `Web Development` • `Virtualization`
 
 ---
 
+## 💼 Experience
+
+### 🌐 Web Development Intern — Cognifyz Technologies
+
+**May 2025 – June 2025**
+
+During my internship, I worked on practical web development tasks using
+**HTML and CSS**.
+
+- Built responsive web pages
+- Improved UI components
+- Worked on frontend development tasks
+- Collaborated with team members
+- Strengthened problem-solving and communication skills
 
 ---
 
-# 📫 Connect With Me
+## 🚀 Featured Projects
+
+### 📱 Academic Portfolio Application
+
+**Flutter • Dart**
+
+A mobile application developed to showcase my academic background,
+projects, and achievements through a structured and intuitive interface.
+
+**Highlights**
+
+- 📚 Academic profile presentation
+- 🚀 Project showcase
+- 🏆 Achievements section
+- 🧭 Smooth navigation
+- 📱 User-friendly mobile interface
+- 🎨 Clean and structured UI
+
+---
+
+### 🌐 Personal Portfolio Website
+
+**HTML5 • CSS3**
+
+A responsive personal website created to present my academic background,
+projects, achievements, and professional information.
+
+**Highlights**
+
+- 📱 Responsive design
+- 🎨 Clean user interface
+- 💻 Cross-device compatibility
+- 📂 Structured portfolio sections
+- 🌐 Hosted for online access
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Score |
+|:---|:---|:---:|
+| **B.Tech – Computer Science & Engineering** | Sasi Institute of Technology & Engineering | **8.03 / 10** |
+| **Diploma** | State Board of Technical Education & Training | **71.3%** |
+| **Secondary Education** | Board of Secondary Education – AP | **75.3%** |
+
+---
+
+## 📜 Certifications
+
+| Certification | Issued By |
+|:---|:---|
+| **TCS iON Career Edge – Young Professional** | Tata Consultancy Services |
+| **Rapid Mobile App Development Using Flutter** | DigitalEx Solutions |
+| **Unlocking The Power Of JavaScript** | Scaler Academy |
+| **AWS Solutions Architecture Job Simulation** | Forage |
+
+---
+
+## 🌱 Currently Learning
 
 <div align="center">
 
-<a href="mailto:yaswanth.badireddy@sasi.ac.in">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+`Java` &nbsp; `Python` &nbsp; `Flutter` &nbsp; `Web Development`
+&nbsp; `Git & GitHub` &nbsp; `Software Engineering`
 
-<a href="https://www.linkedin.com/in/badireddy-yaswanth-82799635a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth11-B&bg_color=0B1120&color=67E8F9&line=14B8A6&point=FFFFFF&area_color=134E4A&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 📌 GitHub
+
+<div align="center">
 
 <a href="https://github.com/yaswanth11-B">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
 
+## 📫 Connect With Me
+
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+<a href="mailto:yaswanth.badireddy@sasi.ac.in">
+<img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-*"Learning never stops. Every project is a step forward."*
+<a href="https://www.linkedin.com/in/badireddy-yaswanth-82799635">
+<img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4,2563EB,0F172A&height=120&section=footer"/>
+<a href="https://github.com/yaswanth11-B">
+<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ✦ Build • Learn • Create • Improve ✦
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,35:0891B2,65:0F766E,100:0B1120&height=130&section=footer"/>
 
 </div>

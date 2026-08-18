@@ -215,6 +215,17 @@ Issued by Forage
 </p>
 
 ---
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanth11-B&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 
 # 🏆 GitHub Trophies
 
@@ -223,7 +234,6 @@ Issued by Forage
 <img src="https://github-profile-trophy.vercel.app/?username=yaswanth11-B&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
-
 ---
 
 # 📫 Connect With Me
